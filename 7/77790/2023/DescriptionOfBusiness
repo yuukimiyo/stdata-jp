@@ -1,0 +1,76 @@
+３【事業の内容】
+　当社グループは、『人』＋『サイバー・フィジカル空間』を一体的に扱う新領域「サイバニクス（人・ロボット・AI/情報系の融合）」を駆使して、誰ひとり取り残さないイノベーションによって人とテクノロジーが共生し相互に支援し合う「テクノピアサポート社会」の実現、ロボット産業、IT産業につづく新産業「サイバニクス産業」の創出による社会変革・産業変革を目指しています。
+ 
+(1) サイバニクス技術による事業分野
+　当社グループは、IoH/IoT（ヒトとモノのインターネット）、ロボット、AIによるサイバニクス技術で医療、福祉、生活、職場、生産を繋ぎ、社会が直面する課題解決を実現する「サイバニクス産業」という人・ロボット・情報系が複合融合した新産業の創出を事業としています。具体的には、現在、下記のような事業を展開しています。
+ 
+①　医療分野向けサイバニックシステム等の研究開発、製造、販売に関する事業
+②　福祉分野向けサイバニックシステム等の研究開発、製造、販売に関する事業
+③　生活・職場・生産分野向けサイバニックシステム等の研究開発、製造、販売に関する事業
+④　サイバニクス技術を活用したサイバニック治療サービス事業及びトレーニングサービス事業
+ 
+ 
+(2) 中核技術としてのＨＡＬ®の動作原理と制御方法
+　ＨＡＬ®は、人が装着して利用します。ＨＡＬ®の技術は様々な分野で利用でき、当社グループの事業の中核となるものです。ＨＡＬ®は、装着者の脳神経系からの動作意思を反映した微弱な生体電位信号(Bio-Electrical Signal:BES)で機能する「サイバニック随意制御系」、姿勢や重心バランス等の装着者の動作情報を人工知能処理し機能する「サイバニック自律制御系」、装着者の人間特性に適応調整される「サイバニックインピーダンス制御系」、及びこれらを組み合わせた「サイバニックハイブリッド制御系」などで構成される革新的サイバニックシステムです。
+　人が体を動かそうとする際、その運動意思は微弱なイオン電流の神経系指令信号として、脳、脊髄、運動神経、筋肉へと伝達され、最終的に筋骨格系が動くことになります。その際、微弱な生体電位信号が皮膚表面にも到達してくるので、これを検出できれば運動意思を捉えたことになります。ＨＡＬ®はこの微弱な生体電位信号を装着者の皮膚表面に貼付けられたセンサーで検出し、これを活用して機能します。これにより、装着者が身体を動かそうとすると、その運動意思に従ってＨＡＬ®が駆動します。ＨＡＬ®は身体に密着しているため、装着者の意思によって駆動すると同時に、脚などの装着部位を動かすことになり、筋紡錘（※１）からの求心性ニューロン（※２）の信号が感覚神経、脊髄を経て脳に戻る（フィードバックされる）ことになります。更に、このような体内の感覚神経系情報に加え視聴覚情報も脳にフィードバックされることになります。このようにして、「脳→脊髄→運動神経→筋肉→ＨＡＬ®」、そして、「ＨＡＬ®→筋紡錘→感覚神経→脊髄→脳」という脳と身体とＨＡＬ®との間でインタラクティブなバイオフィードバックが構成されることになります。
+　これが基本的な「サイバニック随意制御」であり、機能的に人間とロボットとを一体化させることに成功した新しい制御手法の動作原理の一つです。また、重度の運動機能障害を有する場合、特に、生体電位信号がまだ検出できないような状態では、「サイバニック随意制御」が機能しないため、人間の基本運動パターンや動作メカニズムの解析結果を元に予め準備されたプログラムによってロボットのように動作する「サイバニック自律制御」が機能します。また、ＨＡＬ®の質量・慣性モーメント・粘性摩擦等の機械インピーダンスを補償し、装着感に関する物理パラメータを任意に調整することができるサイバニックインピーダンス制御も組み込まれています。目的に応じて、これらの制御を自在に組み合わせたサイバニックハイブリッド制御を構成できることがＨＡＬ®の大きな特徴です。
+ 
+ 
+
+
+
+図１　ＨＡＬ®の動作原理
+ 
+ 
+
+
+
+図２　ＨＡＬ®の制御方法
+ 
+※１．筋紡錘
+　筋肉の内部の紡錘型の筋繊維にらせん状に巻き付いている感覚受容器です。筋肉の長さや張力に応じて神経伝達物質が生じるため関節の角度や身体の姿勢や筋肉が発揮している力などの身体の内部の感覚を起こします。
+ 
+※２．求心性ニューロン
+　末梢の感覚受容器からの刺激を脊髄や脳など中枢に伝達する知覚神経のニューロンです。
+ＨＡＬ®に関する主な学術論文は、下記のとおりです。
+（脊髄損傷）
+・“Feasibility, safety, and functional outcomes using the neurological controlled Hybrid Assistive Limb exoskeleton (HAL®) following acute incomplete and complete spinal cord injury – Results of 50 patients”The Journal of Spinal Cord Medicine (2023)
+・“Feasibility, safety, and functional outcomes using the neurological controlled Hybrid Assistive Limb exoskeleton (HAL®) following acute incomplete and complete spinal cord injury – Results of 50 patients”The Journal of Spinal Cord Medicine (2023)
+・“Gait ability required to achieve therapeutic effect in gait and balance function with the voluntary driven exoskeleton in patients with chronic spinal cord injury: a clinical study The International Spinal Cord Society (2019)
+・“Functional Outcome of Neurologic―Controlled HAL―Exoskeletal Neurorehabilitation in Chronic Spinal Cord Injury: A Pilot With One Year Treatment and Variable Treatment Frequency” Global Spine Journal (2017)
+・“Against the odds: what to expect in rehabilitation of chronic spinal cord injury with a neurologically controlled Hybrid Assistive Limb exoskeleton. A subgroup analysis of 55 patients according to age and lesion level”Neurosurgical Focus (2017)
+・“The Effectiveness and Safety of Exoskeletons as Assistive and Rehabilitation Devices in the Treatment of Neurologic Gait Disorders in Patients with Spinal Cord Injury: A Systematic Review” Global Spine Journal (2016)
+・“Voluntary driven exoskeleton as a new tool for rehabilitation in chronic spinal cord injury : A pilot study” The Spine Journal (2014)
+・“Locomotion training using voluntary driven exoskeleton (HAL) in acute incomplete SCI” Neurology (2014)
+ 
+（脳卒中）
+・“Combined therapy using botulinum toxin A and single-joint hybrid assistive limb for upper-limb disability due to spastic hemiplegia”, Journal of the Neurological Sciences (2017)
+・“Gait training with Hybrid Assistive Limb enhances the gait functions in subacute stroke patients: A pilot study”, NeuroRehabilitation (2017)
+・“Gait training of subacute stroke patients using a hybrid assistive limb: a pilot study” NeuroRehabilitation (2017)
+・“Tailor-made rehabilitation approach using multiple types of hybrid assistive limb robots for acute stroke patients: A pilot study”, Assistive Technology (2016)
+・“Feasibility and efficacy of high-speed gait training with a voluntary driven exoskeleton robot for gait and balance dysfunction in patients with chronic stroke: nonrandomized pilot study with concurrent control”, International Jounal of Rehabilitation Research (2015)
+・“Gait training early after stroke with a new exoskeleton ― the hybrid assistive limb： a study of safety and feasibility” Journal of Neuro Engineering and Rehabilitation (2014)
+・“Pilot study of locomotion improvement using hybrid assistive limb in chronic stroke patients” BMC Neurology (2013)
+ 
+（神経・筋難病）
+・“Effects of Long-term Hybrid Assistive Limb Use on Gait in Patients with Amyotrophic Lateral Sclerosis”Internal Medicine (2022)
+・“Robot-assisted training using hybrid assistive limb ameliorates gait ability in patients with amyotrophic lateral sclerosis”, Journal of Clinical Neuroscience (2022)
+・“Cybernic treatment with wearable cyborg Hybrid Assistive Limb (HAL) improves ambulatory function in patients with slowly progressive rare neuromuscular diseases: a multicentre, randomised, controlled crossover trial for efficacy and safety (NCY-3001)”, Orphanet Journal of Rare Diseases (2021)
+ 
+（その他）
+・“Biofeedback Core Exercise Using Hybrid Assistive Limb for Physical Frailty Patients With or Without Parkinson's Disease”, Frontiers in Neurology (2020)
+・“Feasibility of rehabilitation using the single-joint hybrid assistive limb to facilitate early recovery following total knee arthroplasty: A pilot study”, Assistive Technology (2017)
+・“Feasibility of rehabilitation training with a newly developed wearable robot for patients with limited mobility” Archives of Physical Medicine and Rehabilitation (2013)
+ 
+(3) 当社グループ製品の内容
+　当社グループでは、多様な分野において製品開発を推進していますが、現時点での当社グループの事業は
+ＨＡＬ®が中心となっています。ＨＡＬ®は、その使用目的別に、①医療分野での患者の身体機能改善／機能再生を目的としたロボット治療機器、②介護福祉分野での自立支援を目的とした福祉機器や生活支援機器、③介護施設や建設・工場など重作業現場での作業者に対する作業支援機器などとして、人が装着して活用することで様々な用途展開を可能とするものです。ＨＡＬ®以外には、AIを搭載した搬送ロボットや除菌・清掃ロボット「CL02」を製品化しています。また、心活動、脳活動、体温、SpO2、活動量など様々なヘルスケアデータを日常的に集積・解析・AI処理する超小型バイタルセンサー「Cyvis(サイビス)」シリーズなどの製品化を行っています。
+ 
+(4) 当社グループの事業系統図
+　以上に述べた事項を、以下の事業系統図に示します。なお、当社グループのセグメントはロボット関連事業のみの単一セグメントです。
+ 
+
+
+
+ 
+ 

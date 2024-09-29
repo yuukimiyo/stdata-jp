@@ -1,6 +1,6 @@
 # stdata-jp
 
-Text-corpus of disclosure information(eg. About, Risks, etc...) of listed companies in Japan
+Text-corpus of disclosure information(eg. About, Risks, etc...) of listed companies in Japan.
 
 国内上場企業の開示情報に含まれる「事業の内容」「事業等のリスク」といった特定テーマのテキストを開示年毎にまとめたリポジトリです。
 
@@ -17,7 +17,7 @@ Text-corpus of disclosure information(eg. About, Risks, etc...) of listed compan
  - /2023/が提出年
  - /BusinessPolicyEtcが情報の種類
 
-となります。情報の種類は[収録項目](#-収録項目)を参照。
+となります。情報の種類は「収録項目」を参照。
 
 ## 目的
 

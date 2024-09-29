@@ -4,6 +4,21 @@ Text-corpus of disclosure information(eg. About, Risks, etc...) of listed compan
 
 国内上場企業の開示情報に含まれる「事業の内容」「事業等のリスク」といった特定テーマのテキストを開示年毎にまとめたリポジトリです。
 
+## アクセス方法
+
+例として、「極洋」(銘柄コード=1301)が2023年に開示した有価証券報告書の「事業の内容」を得るためのURLは次のとおりです。
+
+[https://raw.githubusercontent.com/yuukimiyo/stdata-jp/refs/heads/main/1/13010/2023/BusinessPolicyEtc](https://raw.githubusercontent.com/yuukimiyo/stdata-jp/refs/heads/main/1/13010/2023/BusinessPolicyEtc)
+
+/main/以降、
+
+ - /1/が銘柄コードの頭文字
+ - /13010/が銘柄コード+0(ゼロ)
+ - /2023/が提出年
+ - /BusinessPolicyEtcが情報の種類
+
+となります。情報の種類は[収録項目](#-収録項目)を参照。
+
 ## 目的
 
 本リポジトリは上場企業の有価証券報告書に記載されているテキストデーテについて、個別の項目を簡単に取得できることを目的に作成しています。
